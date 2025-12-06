@@ -550,6 +550,24 @@ export default function Home() {
                 >
                   {/* You can put a picture of yourself here, or keep it empty/remove the circle.  */}
                 </Box>
+                <Box
+  sx={{
+    width: 160,
+    height: 160,
+    borderRadius: '50%',
+    overflow: 'hidden',
+    mx: 'auto',
+    mb: 3,
+    border: '4px solid white',
+  }}
+>
+  {/* Your picture goes right here */}
+  <img 
+    src="/path/to/DAVID_Comp.png"
+    alt="Your Name"
+    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+  />
+</Box>
               </MuiGrid>
             </MuiGrid>
           </Container>
