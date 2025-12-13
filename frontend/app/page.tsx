@@ -327,7 +327,7 @@ export default function Home() {
             <Toolbar sx={{ justifyContent: "space-between" }}>
               {/* Your name/logo */}
               <Typography variant="h6" fontWeight="bold" color="text.primary">
-                <Box component="span" sx={{ color: theme.palette.primary.main }}>John</Box>Doe
+                <Box component="span" sx={{ color: theme.palette.primary.main }}>INFO</Box>1031
               </Typography>
               
               <Box sx={{ display: 'flex', alignItems: 'center' }}>
@@ -549,25 +549,15 @@ export default function Home() {
                   }}
                 >
                   {/* You can put a picture of yourself here, or keep it empty/remove the circle.  */}
-                </Box>
-                <Box
-  sx={{
-    width: 160,
-    height: 160,
-    borderRadius: '50%',
-    overflow: 'hidden',
-    mx: 'auto',
-    mb: 3,
-    border: '4px solid white',
-  }}
->
-  {/* Your picture goes right here */}
+{/* Your picture goes right here */}
   <img 
-    src="/path/to/DAVID_Comp.png"
+    src="/DAVID_Comp.png"   // path from the public folder
     alt="David"
     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
   />
-</Box>
+
+                </Box>
+   
               </MuiGrid>
             </MuiGrid>
           </Container>
