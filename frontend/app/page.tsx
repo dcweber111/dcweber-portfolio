@@ -564,7 +564,7 @@ export default function Home() {
   {/* Your picture goes right here */}
   <img 
     src="/path/to/DAVID_Comp.png"
-    alt="Your Name"
+    alt="David"
     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
   />
 </Box>
