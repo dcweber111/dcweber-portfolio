@@ -616,7 +616,7 @@ export default function Home() {
                 paragraph
                 sx={{ fontSize: '1.1rem', lineHeight: 1.7 }}
               >
-                Previously, I worked at XYZ Technologies where I led the frontend development team,
+                Previously, I worked at AmpWeb Technologies where I led the frontend development team,
                 improving application performance by 40% and implementing CI/CD pipelines that reduced
                 deployment time by 65%. I&apos;m passionate about sharing knowledge and have contributed to
                 several open-source projects.
@@ -948,7 +948,7 @@ export default function Home() {
                 <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                   {/* Email link */}
                   <Link 
-                    href="mailto:john.doe@example.com" 
+                    href="mailto:dcweber@mail.mccneb.edu" 
                     color="inherit"
                     underline="none"
                     sx={{ 
@@ -962,7 +962,7 @@ export default function Home() {
                     }}
                   >
                     <HiOutlineMail style={{ marginRight: '0.5rem' }} />
-                    john.doe@example.com
+                    dcweber@mail.mccneb.edu
                   </Link>
                   
                   {/* Social media links */}
