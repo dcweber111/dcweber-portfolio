@@ -268,20 +268,19 @@ export default function Home() {
       demo: "https://ecommerce-demo.example.com"
     },
     {
-      title: "SaaS Analytics Dashboard",
-      description: "An analytics dashboard for SaaS businesses with real-time data visualization and custom reporting features.",
-      image: "/project2.jpg",
-      technologies: ["Next.js", "TypeScript", "D3.js"],
+      title: "Weight Loss Analytics Dashboard",
+      description: "A real-time analytics dashboard for fitness and health tracking, providing live data visualization and customizable reports to support informed decision-making. With real-time data updates, visual analytics, Custom reporting features and Designed for clarity and usability.",
+      technologies: ["php", "sql", "Javascript"],
       github: "https://github.com/johndoe/saas-dashboard",
-      demo: "https://saas-dashboard.example.com"
+      demo: "https://app.fitcpt.ampweb.us/"
     },
     {
-      title: "AI Chat Application",
-      description: "A real-time chat application with AI-powered responses and language translation supporting 20+ languages.",
+      title: "Writers Workshop Application",
+      description: "An interactive writers’ workshop and literary platform featuring real-time communication, structured feedback, and multilingual support for a global writing community. Real-time chat and responses, Story submissions, reviews, and ratings, and Community-focused design for writers and readers",
       image: "/project3.jpg",
       technologies: ["React", "Socket.io", "OpenAI API"],
       github: "https://github.com/johndoe/ai-chat",
-      demo: "https://ai-chat.example.com"
+      demo: "https://www.elusivestory.us/"
     },
   ];
 
