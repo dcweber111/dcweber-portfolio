@@ -260,12 +260,12 @@ export default function Home() {
   // Sample project data - replace with your own
   const projectsData = [
     {
-      title: "E-commerce Platform",
-      description: "A full-stack e-commerce solution with React, Node.js, and Stripe integration that handles 10,000+ monthly transactions.",
+      title: "Portfolio Website",
+      description: "A full-stack developers portfolio",
       image: "/project1.jpg",
       technologies: ["React", "Node.js", "MongoDB"],
-      github: "https://github.com/johndoe/ecommerce",
-      demo: "https://ecommerce-demo.example.com"
+      github: "https://github.com/dcweber111/dcweber-portfolio",
+      demo: "https://dcweber-portfolio.vercel.app"
     },
     {
       title: "Weight Loss Analytics Dashboard",
