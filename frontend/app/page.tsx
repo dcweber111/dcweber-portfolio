@@ -50,7 +50,7 @@ import {
 // Main component for the entire page
 export default function Home() {
   // Check if user's system prefers dark mode
-  const prefersDarkMode = ! useMediaQuery('(prefers-color-scheme: light)');
+  const prefersDarkMode = true; // useMediaQuery('(prefers-color-scheme: dark)');
   // State to track if dark mode is active
   const [darkMode, setDarkMode] = useState(true);
 
