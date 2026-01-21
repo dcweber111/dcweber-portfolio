@@ -49,8 +49,8 @@ import {
 
 // Main component for the entire page
 export default function Home() {
-  // Check if user's system prefers dark mode
-  const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
+  // Check if user's system preferencs dark mode
+  const prefersDarkMode = true; // useMediaQuery('(prefers-color-scheme: dark)');
   // State to track if dark mode is active
   const [darkMode, setDarkMode] = useState(true);
 
@@ -260,18 +260,18 @@ export default function Home() {
   // Sample project data - replace with your own
   const projectsData = [
     {
-      title: "Portfolio Website",
-      description: "A full-stack developers portfolio",
+      title: "E-Commerce Shopping Cart",
+      description: "A full-stack developers project",
       image: "/project1.jpg",
-      technologies: ["React", "Node.js", "MongoDB"],
+      technologies: ["Javascript", "PHP", "Security"],
       github: "https://github.com/dcweber111/dcweber-portfolio",
-      demo: "https://dcweber-portfolio.vercel.app"
+      demo: "https://cart.ampweb.us/public/"
     },
     {
       title: "Weight Loss Analytics Dashboard",
       description: "A real-time analytics dashboard for fitness and health tracking, providing live data visualization and customizable reports to support informed decision-making. With real-time data updates, visual analytics, Custom reporting features and Designed for clarity and usability.",
       technologies: ["php", "sql", "Javascript"],
-      github: "https://github.com/johndoe/saas-dashboard",
+      github: "https://github.com/dcweber111/dcweber-portfolio",
       demo: "https://app.fitcpt.ampweb.us/"
     },
     {
@@ -394,7 +394,7 @@ export default function Home() {
                   
                   {/* LinkedIn link */}
                   <IconButton 
-                    href="https://linkedin.com/in/johndoe" 
+                    href="https://www.linkedin.com/in/david-weber-863a91283/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     color="inherit"
