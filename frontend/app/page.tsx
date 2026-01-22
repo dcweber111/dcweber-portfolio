@@ -300,7 +300,7 @@ export default function Home() {
 
   // Other technologies you're familiar with
   const otherTechnologies = [
-    "AWS", "Git", 
+    "AWS", "Git", "Vercal",
     "Redux", "Figma"
   ];
 
