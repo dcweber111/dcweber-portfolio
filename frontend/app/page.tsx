@@ -286,22 +286,22 @@ export default function Home() {
 
   // Frontend skills with proficiency levels
   const frontendSkills = [
-    { name: "React / Next.js", value: 95 },
-    { name: "TypeScript", value: 90 },
+    { name: "React", value: 95 },
+    { name: "html/css", value: 90 },
     { name: "UI/UX Design", value: 85 },
   ];
 
   // Backend skills with proficiency levels
   const backendSkills = [
-    { name: "Node.js / Express", value: 85 },
+    { name: "php", value: 85 },
     { name: "Database Design", value: 80 },
-    { name: "GraphQL", value: 75 },
+    { name: "Server-Side Logic", value: 75 },
   ];
 
   // Other technologies you're familiar with
   const otherTechnologies = [
-    "Docker", "AWS", "CI/CD", "Jest", "Git", 
-    "Redux", "Firebase", "Webpack", "TailwindCSS", "Figma"
+    "AWS", "Git", "Vercal",
+    "Redux", "Figma"
   ];
 
   // Function to smoothly scroll to different sections
