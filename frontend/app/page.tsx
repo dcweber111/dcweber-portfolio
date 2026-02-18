@@ -375,7 +375,7 @@ export default function Home() {
                 }}>
                   {/* GitHub link */}
                   <IconButton 
-                    href="https://github.com/johndoe" 
+                    href="https://github.com/dcweber111" 
                     target="_blank"
                     rel="noopener noreferrer"
                     color="inherit"
@@ -413,7 +413,7 @@ export default function Home() {
                   
                   {/* Twitter link */}
                   <IconButton 
-                    href="https://twitter.com/johndoe" 
+                    href="https://x.com/wolf_elect23310" 
                     target="_blank"
                     rel="noopener noreferrer"
                     color="inherit"
@@ -961,13 +961,13 @@ export default function Home() {
                     }}
                   >
                     <HiOutlineMail style={{ marginRight: '0.5rem' }} />
-                    dcweber@mail.mccneb.edu
+                    dcweber@ampweb.us
                   </Link>
                   
                   {/* Social media links */}
                   <Box sx={{ display: 'flex', gap: 2 }}>
                     <IconButton 
-                      href="https://github.com/johndoe" 
+                      href="https://github.com/dcweber111" 
                       target="_blank"
                       rel="noopener noreferrer"
                       color="inherit"
@@ -983,7 +983,7 @@ export default function Home() {
                       <FaGithub />
                     </IconButton>
                     <IconButton 
-                      href="https://linkedin.com/in/johndoe" 
+                      href="https://www.linkedin.com/in/david-weber-863a91283/" 
                       target="_blank"
                       rel="noopener noreferrer"
                       color="inherit"
@@ -999,7 +999,7 @@ export default function Home() {
                       <FaLinkedinIn />
                     </IconButton>
                     <IconButton 
-                      href="https://twitter.com/johndoe" 
+                      href="https://x.com/wolf_elect23310" 
                       target="_blank"
                       rel="noopener noreferrer"
                       color="inherit"
