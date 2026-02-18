@@ -375,7 +375,7 @@ export default function Home() {
                 }}>
                   {/* GitHub link */}
                   <IconButton 
-                    href="https://github.com/johndoe" 
+                    href="https://github.com/dcweber111" 
                     target="_blank"
                     rel="noopener noreferrer"
                     color="inherit"
@@ -413,7 +413,7 @@ export default function Home() {
                   
                   {/* Twitter link */}
                   <IconButton 
-                    href="https://twitter.com/johndoe" 
+                    href="https://x.com/wolf_elect23310" 
                     target="_blank"
                     rel="noopener noreferrer"
                     color="inherit"
