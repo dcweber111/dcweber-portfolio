@@ -947,7 +947,7 @@ export default function Home() {
                 <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                   {/* Email link */}
                   <Link 
-                    href="mailto:dcweber@ampweb.us" 
+                    href="mailto:dcweber@mail.mccneb.edu" 
                     color="inherit"
                     underline="none"
                     sx={{ 
